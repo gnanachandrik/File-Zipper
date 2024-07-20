@@ -2,9 +2,7 @@
 This repository contains a Java implementation of Huffman Encoding and Zipping. The provided code demonstrates how to use Huffman Encoding to compress a text file and then create a ZIP archive of the encoded data.
 
 **Overview**
-
 *Huffman Encoding*: A lossless data compression algorithm that assigns variable-length codes to input characters based on their frequencies. More frequent characters receive shorter codes.
-
 *Zipping*: Compresses the encoded data into a ZIP file.
 
 **Files**
